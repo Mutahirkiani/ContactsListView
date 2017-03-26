@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    >
+
+
+    <TextView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:gravity="center"
+        android:textSize="40dp"
+        android:id="@+id/mutahirText1"
+        android:background="@drawable/circle"
+        android:layout_marginTop="42dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:text="@string/phoneNumber"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:textColor="?android:attr/colorControlActivated"
+
+        android:layout_marginTop="20dp"
+        android:id="@+id/textView4"
+        tools:targetApi="lollipop"
+        android:layout_below="@+id/mutahirText"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="350dp"
+        android:id="@+id/mutahirText"
+        android:textSize="40dp"
+        android:gravity="center"
+        android:layout_height="50dp"
+        android:textColor="@android:color/holo_blue_dark"
+        tools:targetApi="ice_cream_sandwich"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:text="@string/name"
+        android:layout_width="80dp"
+        android:textSize="20dp"
+        android:gravity="center"
+        android:layout_height="30dp"
+        android:textColor="@android:color/holo_blue_dark"
+        tools:targetApi="ice_cream_sandwich"
+        android:layout_above="@+id/mutahirText"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="300dp"
+        android:id="@+id/phone"
+        android:gravity="center"
+        android:textSize="30dp"
+        android:layout_height="50dp"
+        android:textColor="?android:attr/colorControlActivated"
+        tools:targetApi="lollipop"
+        android:layout_below="@+id/textView4"
+        android:layout_centerHorizontal="true" />
+
+</RelativeLayout>

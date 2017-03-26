@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">LIST VIEW</string>
+    <string-array name="contacts">
+        <item>Sir Fasial</item>
+        <item>Mutahir Kiani</item>
+        <item>Zubair Khan</item>
+        <item>Hira Altaf</item>"
+        <item>Azman Rana</item>
+        <item>Arslan Amjad</item>
+        <item>Usman Aziz</item>
+        <item>Syed Khuabib</item>
+        <item>Ebad Ali</item>
+        <item>Zaheer Din</item>
+        <item>Ayesha Usman</item>
+        <item>Abu Bakar</item>
+        <item>Amjad khan</item>
+        <item>Ahsan Mirza</item>
+        <item>Ali khan</item>
+        <item>Hadi Ahmed</item>
+        <item>Hamza kiani</item>
+        <item>Hamza Latif</item>
+        <item>Hassan Lodhi</item>
+        <item>Mubashir Hassan</item>
+        <item>Mustafa Mehmood</item>
+        <item>Khush Bakhat</item>
+        <item>Hashir kiani</item>
+        <item>Ali Raza</item>
+        <item>Usman Sadiq</item>
+        <item>Safyan Soafzie</item>
+        <item>Rida Iftikhar</item>
+        <item>Ramsha Mustafa</item>
+        <item>Sheikh Zahoor</item>
+        <item>Sheraz Baig</item>
+        <item>Sir Aleem</item>
+        <item>Sahira Ali</item>
+        <item>Abdul Wahab</item>
+        <item>Waqar khan</item>
+        <item>Sana Hashmi</item>
+        <item>Sir Zubair</item>
+        <item>Minahil Kamran</item>
+        <item>Noor Aziz</item>
+        <item>Zar Nazakat</item>
+        <item>Usman Dar</item>
+        <item>Tehreem Razzaq</item>
+        <item>Tayyab Sethi</item>
+        <item>Fatima pervaiz</item>
+        <item>Hammad shah</item>
+        <item>Hamza Hanif</item>
+        <item>Nusrullah Kakkar</item>
+        <item>Zainab khattak</item>
+        <item>Maleeha Ghulam</item>
+        <item>Qurratul Ain</item>
+        <item>Zohab Iqbal</item>
+        <item>Asma Razzaq</item>
+        <item>Usman Lodhi</item>
+
+    </string-array>
+
+    <string name="name">Name</string>
+    <string name="phoneNumber">Number</string>
+</resources>
